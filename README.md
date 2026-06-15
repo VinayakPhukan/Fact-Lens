@@ -1,4 +1,4 @@
-# 🛡️ FactGuard – Chrome Extension
+# 🛡️ FactLens – Chrome Extension
 
 Real-time misinformation detection powered by AI, fact-checking APIs, and NLP.
 
